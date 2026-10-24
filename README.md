@@ -3,7 +3,8 @@
 Clean, fast, standalone Army List Builder for **Bolt Action: Third Edition**, powered directly by official **EasyArmy (`wg.easyarmy.com`)** scraped datasets and local unit illustrations.
 
 - **GitHub Repository**: [https://github.com/miguelefvlc/ARMYMAKER](https://github.com/miguelefvlc/ARMYMAKER)
-- **Architecture Documentation**: Consulta [`ARCHITECTURE.md`](./ARCHITECTURE.md) para conocer en detalle la arquitectura del motor, el flujo de componentes y la guía paso a paso para añadir nuevas facciones.
+- **📘 Documento Maestro Vivo (Punto de Partida IA / Dev)**: Consulta [`PROJECT_MANUAL.md`](./PROJECT_MANUAL.md) y [`AGENTS.md`](./AGENTS.md) como contexto base obligatorio y registro vivo de cambios del proyecto.
+- **Architecture Summary**: Consulta [`ARCHITECTURE.md`](./ARCHITECTURE.md) para un resumen rápido de la arquitectura del motor y escalabilidad.
 
 ## Architecture & Multi-Faction Scalability
 
